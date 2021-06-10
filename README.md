@@ -10,4 +10,6 @@ This project is apart of my portfolio showing login to a database applicaition a
 <p>Delete.php - Will delete the specified row in the database.</p>
 <p>Logout.php - A way for the user to log out of the application session.</p>
 
-Thanks!
+
+Check out the site <a href="https://girardtechie.icu/favcode/index.php" target="_blank">here</a>
+<p>Thanks!</p>
